@@ -8,5 +8,5 @@ class Dog
   def sit 
     puts "the dog is sitting"
   end
-  
+end
   
